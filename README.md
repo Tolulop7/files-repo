@@ -1,11 +1,11 @@
 # files-repo
-some text
+**some text**
 
 ## this is my H2
-some text
+*some text*
 
 ### this is my H3
-some text 
+>some text 
 
 #### this is my H4
-some text
+'some text'
