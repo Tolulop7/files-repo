@@ -57,5 +57,27 @@ The object returned after initialisation (`lc` in the snippet above) is exposing
 - `resolve` function accepts a success callback, an error callback and an additional object with key value pairs. Of course, errors during resolution will be emitted on the EventBus and sent to the collector. The third parameter is `additionalParameters` which is an object, and will be attached to the IdentityResolution request, split into key-value pairs. The purpose of this object is to include key-value pairs in the request, e.g. for identifiers that cannot be found in the cookie jar, or in LocalStorage, or simply there's a requirement for a certain identifier to be represented under a specific key which doesn't match its name in the cookie jar, or LocalStorage key.
 - `resolutionCallUrl` function returns the URL to be called in order to receive the resolution to a stable identifier.
 
+## linda Ikeji Blog
+[Lagos State Government News](https://www.lindaikejisblog.com/2023/11/lagos-state-government-cancels-50-discount-on-public-transport-2.html) 
 
+`hello`
+
+- hi
+
+~~This is nigeria.~~
+
+X<sup>2</sup>
+
+H<sub>2</sub>0
+
+<mark>liveconnect</mark>
+
+Its a great day! ![Alt text](./image.png)
+
+```
+the file is updated 
+
+update code only
+
+merge text with code```
 
